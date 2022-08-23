@@ -4,3 +4,4 @@ master test
 hot-mix test
 111111111111
 2222222 by lhc
+ssh 免密登录
